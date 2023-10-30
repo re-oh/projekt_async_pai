@@ -1,4 +1,3 @@
 # projekt_async_pai
 
-dizala
-:)
+na poczatku w react zaczełem robic pozniej mi sie wybomibło i nie chciało działac wiedz sie poddałem.
